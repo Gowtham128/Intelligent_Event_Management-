@@ -1,0 +1,7 @@
+{
+  "name": "Event Intelligence Platform",
+  "description": "Enterprise event intelligence platform uniting registration intelligence, venue and speaker scheduling, sponsorship and incident management, and multi-agent orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
